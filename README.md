@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Maciek</h1>
 <h3>A young programmer from Poland</h3>
 
-I’m currently working on card game
-I’m currently learning **dart and flutter**
-I enjoy creating games very much
+- I’m currently working on card game
+- I’m currently learning **dart and flutter**
+- I enjoy creating games very much
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and technologies:</h3>
 <p align="left">
  <a href="https://www.w3schools.com/cpp/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
