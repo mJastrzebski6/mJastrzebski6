@@ -1,9 +1,11 @@
-<h1>Hi 👋, I'm Maciek</h1>
+<h1>Welcome travellers, I'm Maciek</h1>
 <h3>A young programmer from Poland</h3>
 
-- I’m currently working on card game
 - I’m currently learning **dart and flutter**
 - I enjoy creating games very much
+- I’m currently working on a card game
+- Pronouns: he/him
+- Fun fact: i love skiing 
 
 <h3 align="left">Languages and technologies:</h3>
 <p align="left">
