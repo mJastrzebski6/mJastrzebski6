@@ -1,7 +1,7 @@
 <h1>Welcome travellers, I'm Maciek</h1>
 <h3>A young programmer from Poland</h3>
 
-- I’m currently learning **dart and flutter**
+- I’m currently learning **react**
 - I enjoy creating games very much
 - I’m currently working on a card game
 - Pronouns: he/him
@@ -32,12 +32,6 @@
  </a>
  <a href="https://www.python.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
- </a>
- <a href="https://dart.dev" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
- </a>
- <a href="https://flutter.dev" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
  </a>
 </p>
 <h3 align="left">Tools:</h3>
