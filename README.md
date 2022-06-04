@@ -2,10 +2,12 @@
 <h3>A young programmer from Poland</h3>
 
 - I’m currently learning **react native** 
-- I enjoy creating games very much 
+- I enjoy creating games
 - I’m currently working on a card game
 - Pronouns: he/him 
 - Fun fact: i love skiing
+
+<a align="left" href="http://chemik3.ct8.pl/gauntlet/">My last game</a>
 
 <h3 align="left">Languages and technologies:</h3>
 <p align="left">
