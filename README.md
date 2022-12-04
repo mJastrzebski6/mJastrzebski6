@@ -7,34 +7,13 @@
 - Pronouns: he/him 
 - Fun fact: i love skiing
 
-----><a align="left" href="http://chemik3.ct8.pl/gauntlet/">My last game</a><----
+----&gt;<a align="left" href="http://chemik3.ct8.pl/gauntlet/">My last game</a>&lt;----
 
 <h3 align="left">Languages and technologies:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,py,java,androidstudio" />
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,ts,py,java,androidstudio" />
     </a>
-  
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left">
