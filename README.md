@@ -1,13 +1,13 @@
 <h1>Welcome travellers, I'm Maciej</h1>
 <h3>A young programmer from Poland</h3>
 
-- I’m currently learning **react native** 
-- I enjoy creating games
+- I’m currently learning **android development** 
+- I enjoy creating JS games and android apps
 - I’m currently working on a card game
 - Pronouns: he/him 
 - Fun fact: i love skiing
 
-<a align="left" href="http://chemik3.ct8.pl/gauntlet/">My last game</a>
+----><a align="left" href="http://chemik3.ct8.pl/gauntlet/">My last game</a><----
 
 <h3 align="left">Languages and technologies:</h3>
 <p align="left">
@@ -71,10 +71,18 @@
       height="40"
     />
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android"
       width="40"
       height="40"
     />
