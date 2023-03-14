@@ -7,7 +7,7 @@
 - Pronouns: he/him 
 - Fun fact: i love skiing
 
-----&gt;<a align="left" href="http://chemik3.ct8.pl/gauntlet/">My last game</a>&lt;----
+----&gt;<a align="left" href="http://chemik4.ct8.pl/GAUNTLET64/">My last game</a>&lt;----
 
 <h3 align="left">Languages and technologies:</h3>
 <p align="left">
