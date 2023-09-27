@@ -1,5 +1,5 @@
-<h1>Welcome travellers, I'm Maciej</h1>
-<h3>A young programmer from Poland</h3>
+# Welcome travellers, I'm Maciej
+### young programmer from Poland
 
 - I’m currently learning **redux** 
 - I enjoy creating JS games and android apps
@@ -8,14 +8,15 @@
 - Fun facts: I love skiing and have a keen interest in psychology.
 
 -----&gt;<a align="left" href="http://chemik4.ct8.pl/gauntlet_c64_game/">My recent game</a>&lt;-----
+-----&gt;<a align="left" href="http://chemik4.ct8.pl/">My Portfolio site</a>&lt;-----
 
-<h3 align="left">Languages and technologies:</h3>
+## Languages and technologies:
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,ts,redux,java,androidstudio" />
     </a>
 </p>
-<h3 align="left">Tools:</h3>
+## Tools:
 <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
@@ -34,7 +35,7 @@
     />
   </a>
 </p>
-<h3 align="left">Other:</h3>
+## Other:
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,nodejs,express,mysql" />
