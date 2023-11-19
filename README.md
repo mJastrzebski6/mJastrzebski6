@@ -3,7 +3,7 @@
 
 - I’m currently learning **redux** 
 - I enjoy creating JS games and android apps
-- I’m currently working on a map generator
+- I'm currently working on a map generator for my game
 - Pronouns: he/him 
 - Fun facts: I love skiing and have a keen interest in psychology.
 
@@ -16,7 +16,9 @@
         <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,ts,redux,java,androidstudio" />
     </a>
 </p>
+
 ## Tools:
+
 <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
@@ -35,7 +37,9 @@
     />
   </a>
 </p>
+
 ## Other:
+
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,nodejs,express,mysql" />
