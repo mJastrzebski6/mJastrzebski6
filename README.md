@@ -7,8 +7,10 @@
 - Pronouns: he/him 
 - Fun facts: I love skiing and have a keen interest in psychology.
 
------&gt;<a align="left" href="http://chemik4.ct8.pl/gauntlet_c64_game/">My recent game</a>&lt;-----
------&gt;<a align="left" href="http://chemik4.ct8.pl/">My Portfolio site</a>&lt;-----
+## Links:
+- [Gihub Pages Portfolio site](https://mjastrzebski6.github.io/mJastrzebski.github.io/)
+- [My Own Portfolio site](http://chemik4.ct8.pl/)
+- [My recent game](http://chemik4.ct8.pl/gauntlet_c64_game/)
 
 ## Languages and technologies:
 <p align="left">
