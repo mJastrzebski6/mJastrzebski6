@@ -8,9 +8,9 @@
 - Fun facts: I love skiing and have a keen interest in psychology.
 
 ## Links:
-- [Gihub Pages Portfolio site](https://mjastrzebski6.github.io/mJastrzebski.github.io/)
-- [My Own Portfolio site](http://chemik4.ct8.pl/)
-- [My recent game](http://chemik4.ct8.pl/gauntlet_c64_game/)
+- [Gihub Pages Portfolio site](https://mjastrzebski6.github.io/mJastrzebski.github.io/) + [Its github repo](https://github.com/mJastrzebski6/mJastrzebski.github.io)
+- [My Own Portfolio site](http://chemik4.ct8.pl/) + [Its github repo](https://github.com/mJastrzebski6/MyPortfolio)
+- [My recent game](http://chemik4.ct8.pl/gauntlet_c64_game/) + [Its github repo](https://github.com/mJastrzebski6/Gauntlet-I-c64)
 
 ## Languages and technologies:
 <p align="left">
