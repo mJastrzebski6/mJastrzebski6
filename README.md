@@ -5,11 +5,11 @@
 - I enjoy creating JS games and android apps
 - I'm currently working on a map generator for my game
 - Pronouns: he/him 
-- Fun facts: I love skiing and have a keen interest in psychology.
+- Fun facts: I love skiing and I am writing my own book.
 
 ## Links:
-- [My Portfolio site](http://chemik4.ct8.pl/)
-- [My recent game](http://chemik4.ct8.pl/gauntlet_c64_game/) + [Its github repo](https://github.com/mJastrzebski6/Gauntlet-I-c64)
+- [My Portfolio site](http://chemik.ct8.pl/)
+- [My recent game](http://chemik.ct8.pl/gauntlet_c64_game/) + [Its github repo](https://github.com/mJastrzebski6/Gauntlet-I-c64)
 
 ## Languages and technologies:
 <p align="left">
