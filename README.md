@@ -1,9 +1,10 @@
 # Welcome travellers, I'm Maciej
 ### young programmer from Poland
 
-- I’m currently learning **redux** 
-- I enjoy creating JS games and android apps
-- I'm currently working on a map generator for my game
+- I’m currently learning **pandas** and **scikit-learn** 
+- I like creating games, sites and android apps
+- I enjoy analyzing data
+- Recently I've been focusing on my field of study, which is machine learning at AGH
 - Pronouns: he/him 
 - Fun facts: I love skiing and I am writing my own book.
 
@@ -14,35 +15,22 @@
 ## Languages and technologies:
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,ts,redux,java,androidstudio" />
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,ts,redux,py" />
     </a>
 </p>
 
 ## Tools:
 
 <p align="left">
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,ps,figma,latex" />
+    </a>
 </p>
 
 ## Other:
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,nodejs,express,mysql" />
+        <img src="https://skillicons.dev/icons?i=git,nodejs,express,mysql,linux" />
     </a>
 </p>
